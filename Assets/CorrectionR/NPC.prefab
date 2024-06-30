@@ -398,7 +398,7 @@ MonoBehaviour:
     type: 3}
   GogglesSprite: {fileID: 21300000, guid: 52c9c22abbd689b48b17f7981d778b49, type: 3}
   GlovesSprite: {fileID: 21300000, guid: 3e373c7bed92a294385ff0fae4f20edc, type: 3}
-  DeathSprite: {fileID: 21300000, guid: cdf058000a02f7348a85d1e97af9849e, type: 3}
+  DeathSprite: {fileID: 21300000, guid: 3272d7e1feb679c45b630615c393809e, type: 3}
 --- !u!1 &8734546711435855004
 GameObject:
   m_ObjectHideFlags: 0
